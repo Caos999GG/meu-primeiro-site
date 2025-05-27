@@ -45,3 +45,17 @@ h2{
     text-align: center;
     text-shadow: rgb(0, 0, 0) 3px 3px;
 }
+a:link {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+/* visited link */
+a:visited {
+    color: rgb(0, 0, 0)
+    }
+    /* mouse over link */
+a:hover {
+    color:rgb(0, 217, 255);
+    text-decoration: underline;
+    /* background-color: rgb(202, 231, 242);*/
+}
